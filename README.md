@@ -1,9 +1,13 @@
-**Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
-# AndroRAT 
+# ANDRO-RAT MAKE BY TEAM BD CYBER NINJA
+This This ANDRO-RAT Make By - (CAPTAIN-Zerox Uchiha) CEO Of Team BD Cyber Ninja َا إِلَٰهَ إِلَّا ٱللَّهُ مُحَمَّدٌ رَسُولُ ٱللَّ 
+
+![](https://l.top4top.io/p_3424rngsr1.png)
+
+[![.github/workflows/tests.yml](https://github.com/sqlmapproject/sqlmap/actions/workflows/tests.yml/badge.svg)](https://github.com/sqlmapproject/sqlmap/actions/workflows/tests.yml) [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/LICENSE) [![Twitter](https://img.shields.io/badge/twitter-@teambdcyberninjaspyagents-blue.svg)](https://twitter.com/teambdcyberninjaspyagents) [![YouTube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://www.youtube.com/@teambdcyberninjaofficial) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8vXcjuZW2I9hYTU1) 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/karma9874?label=Follow&style=social)](https://twitter.com/karma9874)
-[![GitHub followers](https://img.shields.io/github/followers/karma9874?label=Follow&style=social)](https://github.com/karma9874)
+[![Twitter Follow](https://img.shields.io/twitter/follow/karma9874?label=Follow&style=social)](https://twitter.com/teambdcyberninja)
+[![GitHub followers](https://img.shields.io/github/followers/karma9874?label=Follow&style=social)](https://github.com/alif145)
 
 AndroRAT is a tool designed to give the control of the android system remotely and retrieve informations from it. Androrat is a client/server application developed in Java Android for the client side and the Server is in Python.
 
@@ -11,7 +15,7 @@ AndroRAT is a tool designed to give the control of the android system remotely a
 
 > AndroRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
 
-## Screenshots
+## Screenshot
 
 ![AndroRAT](Screenshots/5.jpg "AndroRAT in action")
 ## Features of AndroRAT 
@@ -30,7 +34,7 @@ AndroRAT requires Python3 and JAVA (or Android Studio)
 
 ## Installation
 ```
-git clone https://github.com/karma9874/AndroRAT.git
+git clone https://github.com//Alif145/TBCN-ANDROIT-RAT
 cd AndroRAT
 pip install -r requirements.txt
 ```
@@ -139,8 +143,14 @@ In the sh shell there are some sub commands
 </p>
 ------------------------------------------------------------------------------------------------------------------------------
 
-## Supporters:
-[![rayep](https://avatars.githubusercontent.com/u/40718616?v=4&s=60)](https://github.com/rayep)
+Developed and tested in Python 3, but may also work in Python 2. I have no idea...
+
+## 🔗 Links
+🔗 My Contack Links.ts
+
+[![website](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](www.teambdcyberninjaspyagents.org)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ah-alif-hassan-joy-61966b256/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahalifhassanjoy/)
 
 ## TODO
 * ~~Ngrok support~~
